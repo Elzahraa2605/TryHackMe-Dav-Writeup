@@ -56,6 +56,10 @@ nmap -sV -Pn 10.128.178.197
 *(Manual interaction inside the Web Browser via View Page Source functionality)*
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step2.png" width="600">
+</p>
+
 
 ## Technical Analysis
 
@@ -79,6 +83,10 @@ gobuster dir -u [http://10.128.178.197/](http://10.128.178.197/) -w /usr/share/w
 ```
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step3.png" width="600">
+</p>
+
 
 ## Technical Analysis
 
