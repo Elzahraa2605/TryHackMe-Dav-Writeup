@@ -195,11 +195,11 @@ hydra -L users.txt -P /usr/share/wordlists/rockyou.txt.gz 10.128.178.197 http-ge
 
 * **Findings**: وجود يوزر وباسورد افتراضيين هما `wampp` و `xampp`.
 * **Impact**: مديري الأنظمة المبتدئين كتير جداً بينزلوا البرامج ويسيبوها بالإعدادات الافتراضية بدون تغيير، وده بيمثل ثغرة خطيرة جداً (Default Configurations Vulnerability).
-* **Assessment & Conclusions**: بنسبة كبيرة جداً التوليفة دي هي اللي هتفتح لنا الباب المحمي.
+* **Assessment & Conclusions**: بنسبة كبيرة جدا دي هي اللي هتفتح لنا الباب المحمي.
 
 ## Pentester Rationale
 
-البحث الذكي والقراءة دايماً بتوفر مجهود كبير جداً ووقت مقارنة بالتخمين الأعمى الفاشل.
+البحث الذكي والقراءة دايماً بتوفر مجهود كبير جداً ووقت
 
 ## Alternative Attack Vectors
 
