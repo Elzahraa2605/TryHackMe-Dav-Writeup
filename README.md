@@ -151,6 +151,10 @@ hydra -L users.txt -P /usr/share/wordlists/rockyou.txt.gz 10.128.178.197 http-ge
 ```
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step6.png" width="600">
+</p>
+
 
 ## Technical Analysis
 
@@ -179,6 +183,10 @@ hydra -L users.txt -P /usr/share/wordlists/rockyou.txt.gz 10.128.178.197 http-ge
 *(Passive target intelligence gathering across open-source public code repositories)*
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step7.png" width="600">
+</p>
+
 
 ## Technical Analysis
 
