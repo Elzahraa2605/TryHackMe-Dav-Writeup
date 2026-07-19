@@ -115,6 +115,9 @@ gobuster dir -u [http://10.128.178.197/](http://10.128.178.197/) -w /usr/share/w
 *(Manual URL exploration to investigate the structural restrictions of the HTTP 401 error)*
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step5.png" width="600">
+</p>
 
 ## Technical Analysis
 
