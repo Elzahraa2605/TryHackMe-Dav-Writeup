@@ -256,6 +256,12 @@ davtest -url [http://10.128.178.197/webdav/](http://10.128.178.197/webdav/) -aut
 ```
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step11.png" width="600">
+</p>
+<p align="center">
+  <img src="DAV-screens/Step12.png" width="600">
+</p>
 
 ## Technical Analysis
 
