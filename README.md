@@ -294,6 +294,13 @@ mousepad php-reverse-shell.php
 ```
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step13.png" width="600">
+</p>
+<p align="center">
+  <img src="DAV-screens/Step14.png" width="600">
+</p>
+
 
 ## Technical Analysis
 
