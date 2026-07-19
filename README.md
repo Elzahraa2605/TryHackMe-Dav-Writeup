@@ -217,6 +217,13 @@ hydra -L users.txt -P /usr/share/wordlists/rockyou.txt.gz 10.128.178.197 http-ge
 *(Manual credential injection and remote directory permissions assessment)*
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step8.png" width="600">
+</p>
+<p align="center">
+  <img src="DAV-screens/Step9.png" width="600">
+</p>
+
 
 ## Technical Analysis
 
