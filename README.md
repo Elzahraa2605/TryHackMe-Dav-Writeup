@@ -1,4 +1,6 @@
-![DAV](DAV-screens/photo_0.jpg)
+<p align="center">
+  <img src="DAV-screens/photo_0.jpg" width="600">
+</p>
 # Machine Information
 
 - **Machine Name**: Dav
