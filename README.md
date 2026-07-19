@@ -86,7 +86,9 @@ gobuster dir -u [http://10.128.178.197/](http://10.128.178.197/) -w /usr/share/w
 <p align="center">
   <img src="DAV-screens/Step3.png" width="600">
 </p>
-
+<p align="center">
+  <img src="DAV-screens/Step4.png" width="600">
+</p>
 
 ## Technical Analysis
 
@@ -118,9 +120,7 @@ gobuster dir -u [http://10.128.178.197/](http://10.128.178.197/) -w /usr/share/w
 <p align="center">
   <img src="DAV-screens/Step5.png" width="600">
 </p>
-<p align="center">
-  <img src="DAV-screens/Step4.png" width="600">
-</p>
+
 
 ## Technical Analysis
 
