@@ -1,3 +1,4 @@
+![Step 1](DAV-screens/photo0.jpg)
 # Machine Information
 
 - **Machine Name**: Dav
