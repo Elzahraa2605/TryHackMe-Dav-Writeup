@@ -138,7 +138,7 @@ gobuster dir -u [http://10.128.178.197/](http://10.128.178.197/) -w /usr/share/w
 
 ## Next Logical Step
 
-محاولة عمل هجوم تخمين (Brute-Force Attack) على نافذة تسجيل الدخول دي.
+محاولة عمل (Brute-Force Attack) على نافذة تسجيل الدخول دي.
 
 ---
 
