@@ -341,6 +341,10 @@ sudo nc -nvlp 1234
 ```
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step18.png" width="600">
+</p>
+
 
 ## Technical Analysis
 
@@ -376,6 +380,12 @@ cat user.txt
 ```
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step19.png" width="600">
+</p>
+<p align="center">
+  <img src="DAV-screens/Step20.png" width="600">
+</p>
 
 ## Technical Analysis
 
@@ -430,6 +440,9 @@ sudo cat /root/root.txt
 ```
 
 ## Evidence & Outputs
+<p align="center">
+  <img src="DAV-screens/Step21.png" width="600">
+</p>
 
 *(موضح في الجزء السفلي من السكرين شوت السابق)*
 
