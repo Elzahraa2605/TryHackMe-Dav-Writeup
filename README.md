@@ -27,7 +27,7 @@ nmap -sV -Pn 10.128.178.197
 
 ## Evidence & Outputs
 <p align="center">
-  <img src="DAV-screens/step1.png" width="600">
+  <img src="DAV-screens/Step1.png" width="600">
 </p>
 
 ## Technical Analysis
