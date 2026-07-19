@@ -446,7 +446,9 @@ sudo cat /root/root.txt
 <p align="center">
   <img src="DAV-screens/Step21.png" width="600">
 </p>
-
+<p align="center">
+  <img src="DAV-screens/Step22.png" width="600">
+</p>
 *(موضح في الجزء السفلي من السكرين شوت السابق)*
 
 ## Technical Analysis
