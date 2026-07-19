@@ -465,7 +465,3 @@ sudo cat /root/root.txt
 * WebDAV Security Best Practices & Configuration Guide.
 * GTFOBins Documentation for Abusing System Binaries (`cat` privilege profile).
 * TryHackMe - Dav Room Link.
-
-```
-
-```
